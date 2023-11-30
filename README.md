@@ -1,5 +1,5 @@
 ![Illustration of Honolulu, Hawaii](https://gumlet.assettype.com/outlooktraveller%2Fimport%2Foutlooktraveller%2Fpublic%2Fuploads%2Farticles%2Fexplore%2FUntitled_design_-_2023-07-14T183536_209.jpg?auto=format%2Ccompress&fit=max&format=webp&w=768&dpr=2.0)
-# sqlalchemy-challenge
+# Holiday-in-Hawaii-with-SQLAlchemy
 ## Description
 In this project, I've decided to treat myself to a long holiday vacation in Honolulu, Hawaii. In order to plan the trip, I've decided to do a climate analysis about the area. There're 2 parts to this project. In Part 1 of the project, I use Python and SQLAlchemy to do a basic climate analysis and data exploration of your climate database. Specifically, I have used SQLAlchemy ORM queries, Pandas, and Matplotlib. In part 2 of the project, I designed a Flask API based on the queries that I have just developed in Part 1. 
 
